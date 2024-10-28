@@ -1,11 +1,19 @@
 <div align="center">
-  <h1>Hey there folks, I'm João! 👋</h1>
-</div>
-<div>
-  <h2>I study compscy at Pucpr</h2>      
+  <img src="https://your-avatar-url.png" alt="Avatar" width="150">
+  
+  ### Hey there folks 👋
+
+  <h1>I'm João</h1>  
+  <p>I study compscy at Pucpr/Brasil</p>
+  
+  <p>💻 Atualmente trabalhando em projetos de desenvolvimento web e aplicações com ESP32.</p>
+  
+  <p>📚 No meu tempo livre, gosto de aprender sobre novas linguagens e frameworks.</p>
 </div>
 
-## 🛠 Most used tecnologies
+---
+
+## 🛠 Tecnologias Mais Usadas
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Java](https://img.shields.io/badge/Java-11-orange)
@@ -17,18 +25,34 @@
 ![Next.js](https://img.shields.io/badge/Next.js-12.0.7-000000?style=flat&logo=next.js&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-10.4-FF8C00?style=flat&logo=delphi&logoColor=white)
 
-## 🌟 Recent projects
+---
+
+## 🌟 Projetos Recentes
 
 - [Projeto 1](https://github.com/usuario/projeto1) - Descrição breve do Projeto 1.
 - [Projeto 2](https://github.com/usuario/projeto2) - Descrição breve do Projeto 2.
 - [Projeto 3](https://github.com/usuario/projeto3) - Descrição breve do Projeto 3.
 
-## 📈 Github statistics
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVictorBalvedi&show_icons=true&theme=radical)
+## 📈 Estatísticas do GitHub
 
-## 🌐 Contact me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorBalvedi&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+</div>
 
-- [LinkedIn](https://www.linkedin.com/in/seu-nome)
-- [Twitter](https://twitter.com/seu_usuario)
-- [Portfolio](https://seu-portfolio.com)
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-nome">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/seu_usuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://seu-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</div>
