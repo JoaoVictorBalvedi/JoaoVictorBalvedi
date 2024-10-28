@@ -7,7 +7,7 @@
   <h1>I'm João</h1>  
   <p>I study compscy at PUC-PR, Brazil</p>
   
-  <p>Lately I've been working mostly with React in front-end development at <a href="estagiarioia.com.br" target="_blank">EstagIArio</a> startup and Delphi at RP Infosistemas - Curitiba/PR.</p>
+  <p>Lately I've been working mostly with React in front-end development at <a href="https://www.estagiarioia.com.br/" target="_blank">EstagIArio</a> startup and Delphi at RP Infosistemas - Curitiba/PR.</p>
   
   <p>I've been trying to make some cool projects too</p>
 </div>
