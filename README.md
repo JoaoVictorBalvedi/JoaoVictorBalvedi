@@ -2,10 +2,11 @@
   <img src="https://i.pinimg.com/originals/b6/0e/08/b60e089b00c7d0b2b68653e339ab241e.gif" alt="Me" width="200px";>
 
 
-
+<div>
   <h2>Hey there folks! 👋</h2>
   <h1>I'm João 🤝</h1>  
   <p>I study compscy at PUC-PR, Brazil</p>
+</div>
   
   <p>Lately I've been working mostly with React in front-end development at <a href="https://www.estagiarioia.com.br/" target="_blank">EstagIArio</a> startup and Delphi at RP Infosistemas - Curitiba/PR.</p>
   
