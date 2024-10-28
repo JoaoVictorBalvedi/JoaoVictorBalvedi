@@ -12,10 +12,10 @@
 </div>
 
 ---
-
-## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,delphi,react,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,notion,postman,prisma)](https://skillicons.dev)
-
+<div align="center">
+  ## My skills
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,vscode,notion,postman,prisma)](https://skillicons.dev)
+</div>
 
 
 ---
