@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hey there folks, I'm João! 👋</h1>
 </div>
+<div>
+  <h2>I study compscy at Pucpr</h2>      
+</div>
 
 ## 🛠 Most used tecnologies
 
