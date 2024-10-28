@@ -6,24 +6,17 @@
   <h1>I'm João</h1>  
   <p>I study compscy at Pucpr/Brasil</p>
   
-  <p>💻 Atualmente trabalhando em projetos de desenvolvimento web e aplicações com ESP32.</p>
+  <p>Lately I've been working mostly with React in Front-end development and delphy at RP Infosistemas - Curitiba/PR.</p>
   
-  <p>📚 No meu tempo livre, gosto de aprender sobre novas linguagens e frameworks.</p>
+  <p>I've been trying to make some cool projects too</p>
 </div>
 
 ---
 
-## 🛠 Tecnologias Mais Usadas
+## My skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,delphi,react,git,typescript)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Java](https://img.shields.io/badge/Java-11-orange)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-2.4.1-blue)
-![React](https://img.shields.io/badge/React-17.0.2-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-12.0.7-000000?style=flat&logo=next.js&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-10.4-FF8C00?style=flat&logo=delphi&logoColor=white)
+
 
 ---
 
