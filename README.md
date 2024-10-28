@@ -7,7 +7,7 @@
   <h1>My Skills</h1>
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,typescript,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,vscode,notion,postman,prisma&perline=5" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,typescript,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,vscode,notion,postman,prisma&perline=10" alt="My Skills">
   </a>
 </div>
 
