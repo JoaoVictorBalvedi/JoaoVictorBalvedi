@@ -3,12 +3,12 @@
   
   ### Hey there folks 👋
 
-  <h1>I'm João</h1>  
-  <p>I study compscy at Pucpr/Brasil</p>
+<div align="center">
+  <h1>My Skills</h1>
   
-  <p>Lately I've been working mostly with React in Front-end development and delphy at RP Infosistemas - Curitiba/PR.</p>
-  
-  <p>I've been trying to make some cool projects too</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,typescript,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,vscode,notion,postman,prisma" alt="My Skills">
+  </a>
 </div>
 
 ---
