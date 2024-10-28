@@ -13,7 +13,8 @@
 
 ---
 <div align="center">
-## My skills
+
+  <h1>My skills</h1>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,react,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,vscode,notion,postman,prisma)](https://skillicons.dev)
 </div>
 
