@@ -1,5 +1,6 @@
-## Hey there folk, I'm João! 👋
-
+<div align="center">
+  <h1>Hey there folks, I'm João! 👋</h1>
+</div>
 
 ## 🛠 Most used tecnologies
 
