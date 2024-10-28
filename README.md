@@ -14,7 +14,7 @@
 ---
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,delphi,react,git,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,delphi,react,git,github,typescript,mysql,postgres,nestjs,nextjs,npm,nodejs,notion,postman,prisma)](https://skillicons.dev)
 
 
 
