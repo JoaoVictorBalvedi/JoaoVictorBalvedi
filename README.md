@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-avatar-url.png" alt="Avatar" width="150">
+  <img src="[https://your-avatar-url.png](https://i.pinimg.com/originals/b6/0e/08/b60e089b00c7d0b2b68653e339ab241e.gif)" alt="Me" width="150">
   
   ### Hey there folks 👋
 
