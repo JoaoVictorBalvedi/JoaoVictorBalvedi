@@ -24,15 +24,13 @@
 
 ---
 
-## 🌟 Projetos Recentes
+## Recent projects!!!!
 
-- [Projeto 1](https://github.com/usuario/projeto1) - Descrição breve do Projeto 1.
-- [Projeto 2](https://github.com/usuario/projeto2) - Descrição breve do Projeto 2.
-- [Projeto 3](https://github.com/usuario/projeto3) - Descrição breve do Projeto 3.
+- Still developing...
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Github statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorBalvedi&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
@@ -40,16 +38,10 @@
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Contact me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-nome">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-balvedi-57421a309/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/seu_usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://seu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white" alt="Portfolio">
   </a>
 </div>
